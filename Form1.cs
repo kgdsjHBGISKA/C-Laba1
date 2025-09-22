@@ -26,20 +26,6 @@ namespace LB1_LARINM_ADB_23_06
 
             drowBox1.Invalidate();
         }
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void drowBox1_Load(object sender, EventArgs e)
         {
